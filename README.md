@@ -23,3 +23,7 @@ Additionally, I used the following libraries/ packages:
 - **create-react-app** to set up application
 - **React-Bootstrap** for styling
 - **d3** to parse data from .csv file
+
+## Decisions and tradeoffs
+
+Due to time constraints, I focused more on functionality than on styling in creating this app. The styling sticks to the outline of the mockups but is relatively bare, with more time I would add more styling overall but especially to the buttons. Also, I would be sure to commit more frequently...overall this was a fun challenge that I had a good time completing!
