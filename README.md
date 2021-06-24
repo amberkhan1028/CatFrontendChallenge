@@ -20,9 +20,9 @@ A simple app that allows users to view, edit, delete and search for cats.
 This project was made using HTML, CSS, JavaScript, and React.
 Additionally, I used the following libraries/ packages:
 
-- **create-react-app** to set up application
-- **React-Bootstrap** for styling
-- **d3** to parse data from .csv file
+- [**create-react-app**](https://create-react-app.dev/) to set up application
+- [**React-Bootstrap**](https://react-bootstrap-v3.netlify.app/) for styling
+- [**d3**](https://d3js.org/) to parse data from .csv file
 
 ## Decisions and tradeoffs
 
